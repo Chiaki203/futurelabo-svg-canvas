@@ -1,5 +1,7 @@
 # FutureLabo
 
+![FutureLabo screenshot](docs/screenshots/Future_labo.png)
+
 Single-page interactive SVG + canvas animation.
 
 - The UI is a large inline SVG in `index.html`.
@@ -38,4 +40,3 @@ npx webpack
 ## Notes
 
 - The repo root is not a git repo, but there is a separate git repository inside `git/`.
-
